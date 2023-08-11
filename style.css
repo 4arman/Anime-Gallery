@@ -24,7 +24,7 @@
     height: 500px;
     margin: 10px;
     border-radius: 50px;
-    background: url(images/img1.jpg);
+    background: url(https://images.hdqwalls.com/wallpapers/dark-naruto-1n.jpg);
     background-size: cover;
     background-position: center;
     position: relative;
@@ -33,25 +33,25 @@
 
 
 .img-box:nth-child(2) {
-    background: url(images/img2.jpg);
+    background: url(https://www.mordeo.org/files/uploads/2018/08/Goku-Jump-Force-HD-Mobile-Wallpaper-950x1689.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(3) {
-    background: url(images/img3.jpg);
+    background: url(https://cdn.wallpapersafari.com/10/21/2oUPVh.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .img-box:nth-child(4) {
-    background: url(images/img4.jpg);
+    background: url(https://images5.alphacoders.com/759/759145.jpg);
     background-size: cover;
     background-position: center;
 }
 
 .img-box h3 {
-    color: #fafafa;
+    color: rgb(255, 0, 0);
     position: absolute;
     bottom: 0;
     left: 30px;
